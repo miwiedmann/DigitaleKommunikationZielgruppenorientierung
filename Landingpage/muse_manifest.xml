@@ -1,0 +1,58 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Landingpage Medieninformatik GM.html" resolutions="1x" timestamp="1508415398131">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="287398656" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="notebook-2386034_1920-crop-u94.jpg" crc="3799382608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="box.png" crc="51938538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="startup-849805_1920-crop-u114.jpg" crc="216743886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u138-4.png" crc="173235476" ref="index"/>
+    <file name="young-791849_1920-crop-u104.jpg" crc="3976834589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u133-4.png" crc="170962679" ref="index"/>
+    <file name="logo-th-koeln-e1441112883866.png" crc="11214254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kamera.png" crc="193337427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="macbook.png" crc="341742043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ordner.png" crc="4006532718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u259-4.png" crc="4223936825" ref="index"/>
+    <file name="u263-4.png" crc="315408180" ref="index"/>
+    <file name="mario.png" crc="4048611663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u266-4.png" crc="4186294299" ref="index"/>
+    <file name="wba.png" crc="530862648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u317-4.png" crc="320592754" ref="index"/>
+    <file name="u269-4.png" crc="257036352" ref="index"/>
+    <file name="u270-4.png" crc="412236859" ref="index"/>
+    <file name="u271-4.png" crc="516250888" ref="index"/>
+    <file name="u156-6.png" crc="526793091" ref="index"/>
+    <file name="u190-5.png" crc="285627804" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4016601978" seo="true" mt="1508415354079" redirect="true"/>
+</manifest>
